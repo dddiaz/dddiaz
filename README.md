@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Daniel and I am a Software Engineer located in Southern California 😎.
+My Name is Daniel and I am a Software Engineer located in Southern California ☀️ .  
 
 Check out my website [here](https://dddiaz.com).  
 I occasionally blog there about 🐍 and 🧬.
