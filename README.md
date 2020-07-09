@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My Name is Daniel and I am a Software Engineer located in Southern California 😎.
+
+Check out my website [here](https://dddiaz.com).  
+I occasionally blog there about 🐍 and 🧬.
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning about machine learning.
+- 📫 How to reach me: @dddiaz1
+- ⚡ Fun fact: I've initiated the emergency shutdown sequence of a nuclear reactor. 😂
+
 <!--
 **dddiaz/dddiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
