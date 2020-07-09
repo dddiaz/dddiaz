@@ -7,7 +7,7 @@ I occasionally blog there about 🐍 and 🧬.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about machine learning.
-- 📫 How to reach me: @dddiaz1
+- 📫 How to reach me on twitter: @dddiaz1
 - ⚡ Fun fact: I've initiated the emergency shutdown sequence of a nuclear reactor. 😂
 
 <!--
