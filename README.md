@@ -6,7 +6,7 @@ Check out my website [here](https://dddiaz.com).
 I occasionally blog there about 🐍 and 🧬.
 
 - 😄  Pronouns: He/Him
-- 🌱  I’m currently learning about machine learning.
+- 🌱  I’m currently learning about Genomics and Machine Learning.
 - ⚡  Fun fact: I've initiated the emergency shutdown sequence of a nuclear reactor. 😂
 - 💉 T1D 
 
