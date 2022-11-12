@@ -3,7 +3,7 @@
 My Name is Daniel and I am a Bioinformatics Software Engineer located in Southern California ☀️ .  
 
 Check out my website [here](https://dddiaz.com).  
-I occasionally blog there about 🐍 and 🧬.
+I occasionally blog there about 🐍 , 🧬 , ⛅️.
 
 - 😄  Pronouns: He/Him
 - 🌱  I’m currently learning about Genomics and Machine Learning.
