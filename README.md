@@ -7,7 +7,7 @@ I occasionally blog there about 🐍 , 🧬 , ⛅️.
 
 - 😄  Pronouns: He/Him
 - 🌱  I’m currently learning about Genomics and Machine Learning.
-- ⚡  Fun fact: I've initiated the emergency shutdown sequence of a nuclear reactor. 😂
+- ⚡  Fun fact: I like to sail, find me out on Mission Bay. ⛵️
 - 💉 T1D 
 
 <!--
